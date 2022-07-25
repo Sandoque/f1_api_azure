@@ -1,0 +1,9 @@
+{
+	"name": "adff1api",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "c185b98c-31e7-4e50-92f2-2a9840c2c928",
+		"tenantId": "35acf771-98c5-4d2f-b365-82b38f86fa7e"
+	}
+}
